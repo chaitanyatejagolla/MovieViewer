@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 - [ ] Add a tab bar for **Now Playing** and **Top Rated** movies.
 - [ ] Implement segmented control to switch between list view and grid view.
-- [X] Add a search bar.
+- [ ] Add a search bar.
 - [ ] All images fade in.
 - [ ] For the large poster, load the low-res image first, switch to high-res when complete.
 - [X] Customize the highlight and selection effect of the cell.
