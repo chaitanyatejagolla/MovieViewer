@@ -1,6 +1,6 @@
-# Movie Viewer
+# Flicks
 
-**Movie Viewer** is an iOS app to checkout the latest movies.
+**Flicks** is an iOS app to checkout the latest movies.
 
 Submitted by: **Chaitanya Teja Golla**
 
